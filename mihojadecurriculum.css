@@ -1,0 +1,16 @@
+nav{
+    text-align: center;
+    color: darkcyan
+}
+
+aside{
+    background-color: rgb(30, 7, 163);
+}
+
+footer{
+    background-color: goldenrod
+}
+
+.foto-perfil{
+    height: 222px;
+}
